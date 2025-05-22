@@ -20,6 +20,9 @@ Step 7:	 Terminate the program.
 
 ### PROGRAM
 ```
+Name:Subashree A
+Reg no:212222020029
+
 n=int(input())
 print("Natural Numbers are :")
 for i in range(1,n+1,1):
@@ -56,7 +59,13 @@ Step 8:	If factor_sum is equal to n, then print the number is a perfect number.O
 
 Step 9:	 Terminate the program.
 ### PROGRAM
-```def perfectnumber(n):
+
+
+```
+Name:Subashree A
+Reg no:212222020029
+
+def perfectnumber(n):
     factor_sum=0
     for i in range(1,n//2+1):
         if(n%i==0):
@@ -92,7 +101,11 @@ Step 5:	 Call the res Function: Pass num1 and num2 to the lambda function to per
 
 Step 6:	 Terminate the program.
 ### PROGRAM
-```num1=eval(input())
+```
+Name:Subashree A
+Reg no:212222020029
+
+num1=eval(input())
 num2=eval(input())
 max=lambda x,y: print(f"{num2} is smaller than {num1}") if x>y else print(f"{num1} is smaller than {num2}")![image](https://github.com/user-attachments/assets/4a3ccdb3-e831-41b8-b783-4f58c664521e)
 
@@ -134,7 +147,11 @@ Step 10:	 After printing each row's stars, print a newline to move to the next r
 
 Step 11:	 Terminate the program.
 ### PROGRAM
-```n=int(input())
+```
+Name:Subashree A
+Reg no:212222020029
+
+n=int(input())
 i=0
 for rows in range(0,n):
     for cols in range(((n-rows-1)*2)+i):
