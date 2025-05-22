@@ -1,4 +1,7 @@
-# 19CS301-Module2
+# 19CS301-Module2   
+Name:Subashree A
+Reg no:212222020029
+
 Exp.No:2(a)	ITERATIVE STATEMENTS- PRINTING N NATURAL NUMBERS
 ### AIM
 To create a python program for printing n natural numbers.
@@ -18,8 +21,6 @@ Step 6:	 In each iteration, print the current value of i.
 
 Step 7:	 Terminate the program.
 
-Name:Subashree A
-Reg no:212222020029
 
 ### PROGRAM
 ```
@@ -62,8 +63,6 @@ Step 8:	If factor_sum is equal to n, then print the number is a perfect number.O
 
 Step 9:	 Terminate the program.
 
-Name:Subashree A
-Reg no:212222020029
 
 ### PROGRAM
 
@@ -104,9 +103,6 @@ Step 4:	 The lambda function compares the numbers and prints which one is smalle
 Step 5:	 Call the res Function: Pass num1 and num2 to the lambda function to perform the comparison.
 
 Step 6:	 Terminate the program.
-
-Name:Subashree A
-Reg no:212222020029
 
 ### PROGRAM
 ```
@@ -152,8 +148,6 @@ Step 10:	 After printing each row's stars, print a newline to move to the next r
 
 Step 11:	 Terminate the program.
 
-Name:Subashree A
-Reg no:212222020029
 
 ### PROGRAM
 ```
