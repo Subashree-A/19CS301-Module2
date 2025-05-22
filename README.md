@@ -1,6 +1,6 @@
 # 19CS301-Module2   
-Name:Subashree A
-Reg no:212222020029
+- **Name:** Subashree A  
+- **Registration Number:** 212222020029
 
 Exp.No:2(a)	ITERATIVE STATEMENTS- PRINTING N NATURAL NUMBERS
 ### AIM
@@ -24,9 +24,6 @@ Step 7:	 Terminate the program.
 
 ### PROGRAM
 ```
-Name:Subashree A
-Reg no:212222020029
-
 n=int(input())
 print("Natural Numbers are :")
 for i in range(1,n+1,1):
