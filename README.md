@@ -18,6 +18,9 @@ Step 6:	 In each iteration, print the current value of i.
 
 Step 7:	 Terminate the program.
 
+Name:Subashree A
+Reg no:212222020029
+
 ### PROGRAM
 ```
 Name:Subashree A
@@ -58,13 +61,14 @@ Step 7:	If a number i divides n perfectly (i.e., n % i == 0), add i to factor_su
 Step 8:	If factor_sum is equal to n, then print the number is a perfect number.Otherwise, print it's not a perfect number.
 
 Step 9:	 Terminate the program.
+
+Name:Subashree A
+Reg no:212222020029
+
 ### PROGRAM
 
 
 ```
-Name:Subashree A
-Reg no:212222020029
-
 def perfectnumber(n):
     factor_sum=0
     for i in range(1,n//2+1):
@@ -100,11 +104,12 @@ Step 4:	 The lambda function compares the numbers and prints which one is smalle
 Step 5:	 Call the res Function: Pass num1 and num2 to the lambda function to perform the comparison.
 
 Step 6:	 Terminate the program.
-### PROGRAM
-```
+
 Name:Subashree A
 Reg no:212222020029
 
+### PROGRAM
+```
 num1=eval(input())
 num2=eval(input())
 max=lambda x,y: print(f"{num2} is smaller than {num1}") if x>y else print(f"{num1} is smaller than {num2}")![image](https://github.com/user-attachments/assets/4a3ccdb3-e831-41b8-b783-4f58c664521e)
@@ -146,11 +151,12 @@ Step 9:	 For each row, print the stars. The number of stars for each row is equa
 Step 10:	 After printing each row's stars, print a newline to move to the next row using print("").
 
 Step 11:	 Terminate the program.
-### PROGRAM
-```
+
 Name:Subashree A
 Reg no:212222020029
 
+### PROGRAM
+```
 n=int(input())
 i=0
 for rows in range(0,n):
